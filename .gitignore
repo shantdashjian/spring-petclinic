@@ -10,7 +10,6 @@ build/*
 *.iml
 /target
 .sts4-cache/
-.vscode
 _site/
 *.css
 !petclinic.css
